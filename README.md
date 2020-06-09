@@ -134,7 +134,7 @@ Caso o usuário seja menor de idade, deve pedir autorização para os responsáv
 
   5 - Usuários que não registrar no servidor em ate 2h vai ser expulso do servidor, quando executar o comando de registro o usuário vai ter apenas 5min pra registrar no servidor, caso não registar vai ser expulso automaticamente pelo bot do servidor.
  
- OBS: **Eu posso ser punido por algo que não esteja informado nas regras do servidor? **
+ ## Eu posso ser punido por algo que não esteja informado nas regras do servidor?
 
   Sim, não necessariamente algo que o usuário fizer precisa obrigatoriamente estar listado nas regras do servidor. O Dono do servidor tem total liberdade de punir o usuário da forma que quiser sem aviso prévio .
 
@@ -143,3 +143,5 @@ Caso o usuário seja menor de idade, deve pedir autorização para os responsáv
 `Outros detalhes do  bot:` https://staralien.glitch.me
 
 `Discord do criador do bot:` https://discord.gg/pAMsAaG
+
+`Criador(a):` !Ravena, ID: 367893062812434432
