@@ -109,3 +109,40 @@ Portanto certifique-se que as devidas permissões estejam corretas conforme a cl
 Caso o usuário seja menor de idade, deve pedir autorização para os responsáveis, logo em seguida pagar uma multa/taxa de R$ 24,00 BRL, com os meios de pagamentos fornecidos no mesmo, ao realizar os procedimentos deve enviar a copia desse documento digitalizado e enviar no email fornecido pelo responsavel do projeto.
 
 `Este documento é uma adaptação dos Termos de Serviço do Google App Engine e dos Termos e condições de uso do Ovini#7487. O trabalho original foi modificado. Não possui vínculo e não patrocina ou endossa o !StarAlien ou o seu uso da obra.`
+
+---------------------------------------------------------------------------------------------------
+## Servidor de suporte ao desenvolvimento do  bot `!StarAlien`
+ 
+**__Além disso o servidor pode conter:__**
+
+* 》Cargos de leveis + vantagens 
+* 》Chats de desenvolvimento/programação de bot para discord.
+* 》Sorteios 
+* 》Cargos de notificações
+* 》Chat de adicionar cargos por reações.
+* 》 e muito mais...
+
+ **__Ao entrar no servidor os usuários vão ter  alguns requisitos:__**
+ 
+  1 - O usuário deve manjar um pouco do discord, bots... pois no servidor vai ter sistema de registro com interação via discord e bot.
+
+  2 - Não pode entrar no servidor com convite em Status Custom, pois o bot vai expulsar automaticamente o usuário que tiver invites.
+
+  3 - É de extrema importância  o usuário ler os canais ``📑│regras`` e  ``📑│faq``  seguindo à risca o que esta sendo informado.
+
+  4 - Ao registrar no servidor, o usuário obrigatoriamente estará concordando com as  regras do servidor, caso não concorde sugiro sair do servidor.
+
+  5 - Usuários que não registrar no servidor em ate 2h vai ser expulso do servidor, quando executar o comando de registro o usuário vai ter apenas 5min pra registrar no servidor, caso não registar vai ser expulso automaticamente pelo bot do servidor.
+ 
+ OBS: **Eu posso ser punido por algo que não esteja informado nas regras do servidor? **
+
+  Sim, não necessariamente algo que o usuário fizer precisa obrigatoriamente estar listado nas regras do servidor. O Dono do servidor tem total liberdade de punir o usuário da forma que quiser sem aviso prévio .
+
+--------------------------------------------------------------------------------------
+
+`Outros detalhes do  bot:` https://staralien.glitch.me
+
+`Discord do criador do bot:` https://discord.gg/pAMsAaG
+
+`Criador(a):` !Ravena, ID: 367893062812434432
+
