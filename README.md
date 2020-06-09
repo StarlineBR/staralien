@@ -108,4 +108,4 @@ Portanto certifique-se que as devidas permissões estejam corretas conforme a cl
 **7.4** A forma dificultada de desbanimento, o usuário terá que preencher um termo cujo qual vai estar ciente que deve informar dados sensíveis como  assinatura, CPF, CEP, Cidade dentre outro que estiver listado no termo. 
 Caso o usuário seja menor de idade, deve pedir autorização para os responsáveis, logo em seguida pagar uma multa/taxa de R$ 24,00 BRL, com os meios de pagamentos fornecidos no mesmo, ao realizar os procedimentos deve enviar a copia desse documento digitalizado e enviar no email fornecido pelo responsavel do projeto.
 
-`Este documento é uma adaptação dos Termos de Serviço do Google App Engine. O trabalho original foi modificado. Google, Inc. não possui vínculo e não patrocina ou endossa o !StarAlien ou o seu uso da obra.`
+`Este documento é uma adaptação dos Termos de Serviço do Google App Engine e dos Termos e condições de uso do Ovini#7487. O trabalho original foi modificado. Não possui vínculo e não patrocina ou endossa o !StarAlien ou o seu uso da obra.`
