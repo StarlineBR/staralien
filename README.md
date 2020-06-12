@@ -73,7 +73,7 @@ responsabiliza pelas seguintes informações:
 usuários/membros do seu servidor, em caso de problemas de armazenamento das informações e/ou 
 a perda deles conforme descrito na clausula **3.1**.
 
-### 4.0 IndisponibIlidade
+### 4.0 Indisponibilidade
 **4.1** Poderão ocorrer determinadas indisponibilidade no `!StarAlien` fazendo o mesmo não funcionar 
 corretamente e/ou ficar offline em seu servidor. A equipe de desenvolvedor não se responsabiliza 
 em caso da não contabilização de dados ou indisponibilidade do uso de seus comandos.
