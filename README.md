@@ -85,7 +85,7 @@ informações.
 **4.3** Caso note que algo não esteja funcionando corretamente. reporte para a equipe de 
 desenvolvedores para que seja possível a solução de seu problema.
 
-**4.4** Em casos de manutenção pode ocorrer varios imprevistos/erros, Não resposabilizamos por esses tais erros, conforme descrito na clausula 4.2. É de obrigação de cada usuário ficar ciente das devidas 
+**4.4** Em casos de manutenção pode ocorrer varios imprevistos/erros, não resposabilizamos por esses tais erros, conforme descrito na clausula 4.2. É de obrigação de cada usuário ficar ciente das devidas 
 informações.
 
 ### 5.0 Permissões
