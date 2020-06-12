@@ -1,5 +1,5 @@
 ### Termo de consentimento e Condições de uso do !StarAlien
-**Ultima atualização em:** 09/06/2020
+**Ultima atualização em:** 12/06/2020
 
 Todos os usuários da plataforma do `Discord` tem total liberdade de usar qualquer uma das funções 
 presentes no `!StarAlien`, porém vale ressaltar que qualquer abuso ou descumprimento de alguma das clausula 
