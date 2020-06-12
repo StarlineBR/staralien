@@ -1,5 +1,5 @@
 ### Termo de consentimento e Condições de uso do !StarAlien
-**Ultima atualização em:** 09/06/2020
+**Ultima atualização em:** 12/06/2020
 
 Todos os usuários da plataforma do `Discord` tem total liberdade de usar qualquer uma das funções 
 presentes no `!StarAlien`, porém vale ressaltar que qualquer abuso ou descumprimento de alguma das clausula 
@@ -73,7 +73,7 @@ responsabiliza pelas seguintes informações:
 usuários/membros do seu servidor, em caso de problemas de armazenamento das informações e/ou 
 a perda deles conforme descrito na clausula **3.1**.
 
-### 4.0 IndisponibIlldade
+### 4.0 IndisponibIlidade
 **4.1** Poderão ocorrer determinadas indisponibilidade no `!StarAlien` fazendo o mesmo não funcionar 
 corretamente e/ou ficar offline em seu servidor. A equipe de desenvolvedor não se responsabiliza 
 em caso da não contabilização de dados ou indisponibilidade do uso de seus comandos.
@@ -84,6 +84,9 @@ informações.
 
 **4.3** Caso note que algo não esteja funcionando corretamente. reporte para a equipe de 
 desenvolvedores para que seja possível a solução de seu problema.
+
+**4.4** Em casos de manutenção pode ocorrer varios imprevistos/erros, não resposabilizamos por esses tais erros, conforme descrito na clausula 4.2. É de obrigação de cada usuário ficar ciente das devidas 
+informações.
 
 ### 5.0 Permissões
 **5.1** Dê ao `!StarAlien` em seu servidor a permissão ``ADMINISTRADOR``, para que 
