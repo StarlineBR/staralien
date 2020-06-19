@@ -99,6 +99,7 @@ Portanto certifique-se que as devidas permissões estejam corretas conforme a cl
 ### 6.0 Punições 
 
 **6.1** As punições ocorrerá conforme a gravidade da infração. A equipe de desenvolvedores determinará a melhor forma de punir cada usuário conforme o descumprimento de uma das clausulas desse termo.  
+
 **6.2** A punição, poderá ocorrer também de forma automática conforme a movimentação involuntário do usuário seja ela temporário ou permanente podendo sofrer punições no `!StarAlien` forma  parcial e/ou total em uso de suas funções. 
 
 ### 7.0 Desbanimento 
