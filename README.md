@@ -63,7 +63,7 @@ Todos os usuários da plataforma do `Discord` tem total liberdade de usar qualqu
 
 **5.1** Dê ao `!StarAlien` em seu servidor a permissão `ADMINISTRADOR`, para que `!StarAlien` funcione corretamente e não dê problemas caso ele tente executar algum comando e não ter permissão para isso.
 
-**5.2** Não nós responsabilizamos caso o `!StarAlien` não consiga executar tais funções por falta de permissão. Portanto certifique-se que as devidas permissões estejam corretas conforme a cláusula **5.1**.
+**5.2** Não nós responsabilizamos caso o `!StarAlien` não consiga executar tais funções por falta de permissão. Portanto certifique-se que as devidas permissões estejam corretas conforme a cláusula `5.1`.
 
 ## 6.0 Punições
 
