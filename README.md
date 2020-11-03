@@ -47,17 +47,17 @@ Todos os usuários da plataforma do `Discord` tem total liberdade de usar qualqu
 > * 3.2.3 Perda de dados caso ocorra atualizações profundas no `!StarAlien`.
 > * 3.2.4 Perda de dados e informações caso ocorram atualização no Node.js.
 
-**3.3** Você é responsável em salvar em um local seguro todas/parciais as informações dos usuários/membros do seu servidor, em caso de problemas de armazenamento das informações e/ou a perda deles conforme descrito na cláusula **3.1**.
+**3.3** Você é responsável em salvar em um local seguro todas/parciais as informações dos usuários/membros do seu servidor, em caso de problemas de armazenamento das informações e/ou a perda deles conforme descrito na cláusula `3.1`.
 
 ## 4.0 Indisponibilidade
 
 **4.1** Poderão ocorrer determinadas indisponibilidade no `!StarAlien` fazendo o mesmo não funcionar corretamente e/ou ficar offline em seu servidor. A equipe de desenvolvedor não se responsabiliza em caso da não contabilização de dados ou indisponibilidade do uso de seus comandos.
 
-**4.2** Anúncios, avisos e demais afins poderão ser divulgados no servidor de suporte do `!StarAlien` conforme descrito na cláusula 4.2. É de obrigação de cada usuário ficar ciente das devidas informações.
+**4.2** Anúncios, avisos e demais afins poderão ser divulgados no servidor de suporte do `!StarAlien` conforme descrito na cláusula `4.2`. É de obrigação de cada usuário ficar ciente das devidas informações.
 
 **4.3** Caso note que algo não esteja funcionando corretamente. reporte para a equipe de desenvolvedores para que seja possível a solução de seu problema.
 
-**4.4** Em casos de manutenção pode ocorrer vários imprevistos/erros, não responsabilizamos por esses tais erros, conforme descrito na cláusula 4.2. É de obrigação de cada usuário ficar ciente das devidas informações.
+**4.4** Em casos de manutenção pode ocorrer vários imprevistos/erros, não responsabilizamos por esses tais erros, conforme descrito na cláusula `4.2`. É de obrigação de cada usuário ficar ciente das devidas informações.
 
 ## 5.0 Permissões
 
