@@ -26,7 +26,7 @@ Todos os usuários da plataforma do `Discord` tem total liberdade de usar qualqu
 
 **1.8** Abusar de alguns comandos, fará com que você tenha limitações no uso das funções do `!StarAlien`, portanto evite o máximo para não utilizá-lo de forma irregular para evitar também que você seja banido\(a\) de usar todas as suas funções.
 
-**1.9** Ao usar o `!StarAlien` você concorda que ele é um bot seguro, não viola os Termos de Serviço do Discord e que não vai prejudicar seu servidor, por tanto qualquer forma de desconfiança em relação ao bot espalhando asneiras, boatos ou algo do gênero, a equipe do `!StarAlien` podem punir da forma que quiser os usuários que fizeram a ação.
+**1.9** Ao usar o `!StarAlien` você concorda que ele é um bot seguro, não viola os Termos de Serviço do Discord e que não vai prejudicar seu servidor, portanto qualquer forma de desconfiança em relação ao bot espalhando asneiras, boatos ou algo do gênero, a equipe do `!StarAlien` podem punir da forma que quiser os usuários que fizeram a ação.
 
 ## 2.0 Recursos Premium
 
