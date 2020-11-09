@@ -83,6 +83,8 @@ Todos os usuários da plataforma do `Discord` tem total liberdade de usar qualqu
 
 **7.4** A forma dificultada de desbanimento, é pagar uma multa/taxa de R$ 50,00 BRL, com os meios de pagamentos fornecidos no servidor de suporte do `!StarAlien` ou pagar com gift de nitro de valor $9,99 USD. 
 
+**7.5** Ao ser desbanido(a) terá que reconquistar tudo novamente, a equipe de desenvolvimento afirma que salva os backups do banco de dados do bot, o usuário banido pode ter os dados restabelecidos porém o pagamento para reestabelecer os dados é a parte. 
+
 > Este documento é uma adaptação dos Termos de Serviço do Google App Engine e dos [Termos e condições de uso do Ovni\#7487](https://docs.ovnibot.com.br/terms). O trabalho original foi modificado. Não possui vínculo e não patrocina ou endossa o !StarAlien ou o seu uso da obra.
 
 ℹ [Mais informações](https://github.com/StarlineBR/staralien/wiki)
