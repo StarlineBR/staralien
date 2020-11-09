@@ -81,7 +81,7 @@ Todos os usuários da plataforma do `Discord` tem total liberdade de usar qualqu
 
 **7.3** O desbanimento poderá ocorrer também de forma automática conforme a ação dos desenvolvedores do `!StarAlien`.
 
-**7.4** A forma dificultada de desbanimento, o usuário terá que preencher um termo cujo qual vai estar ciente que deve informar dados sensíveis como assinatura, CPF, CEP, Cidade dentre outro que estiver listado no termo. Caso o usuário seja menor de idade, deve pedir autorização para os responsáveis, logo em seguida pagar uma multa/taxa de R$ 24,00 BRL, com os meios de pagamentos fornecidos no mesmo, ao realizar os procedimentos deve enviar a cópia desse documento digitalizado e enviar no email fornecido pelo responsável do projeto.
+**7.4** A forma dificultada de desbanimento, é pagar uma multa/taxa de R$ 50,00 BRL, com os meios de pagamentos fornecidos no servidor de suporte do `!StarAlien` ou pagar com gift de nitro de valor $9,99 USD. 
 
 > Este documento é uma adaptação dos Termos de Serviço do Google App Engine e dos [Termos e condições de uso do Ovni\#7487](https://docs.ovnibot.com.br/terms). O trabalho original foi modificado. Não possui vínculo e não patrocina ou endossa o !StarAlien ou o seu uso da obra.
 
