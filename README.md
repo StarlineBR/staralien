@@ -1,10 +1,10 @@
-# README
+# Termo de consentimento
 
 ## Termo de consentimento e Condições de uso do !StarAlien
 
-**Última atualização em:** 09/11/2020
+**Última atualização em:** 10/01/2021
 
-Todos os usuários da plataforma do `Discord` tem total liberdade de usar qualquer uma das funções presentes no `!StarAlien`, porém vale ressaltar que qualquer abuso ou descumprimento de alguma das cláusula desse termo limita o uso de qualquer comando do `!StarAlien` podendo ser banido\(a\) de usar qualquer uma de suas funções, isso também inclui novas funções. Portanto ao usar um de seus comandos, você está de acordo com todas as informações presente nesse termo e aceita as devidas punições que ocorrerá em caso de descumprimento das mesmas.
+Todos os usuários da plataforma do `Discord` tem total liberdade de usar qualquer uma das funções presentes no `!StarAlien`, porém vale ressaltar que qualquer abuso ou descumprimento de alguma das cláusula desse termo limita o uso de qualquer comando do `!StarAlien` podendo ser banido\(a\) de usar qualquer uma de suas funções, isso também inclui novas funções, algumas cláusulas desse termo também pode aplicar em outras aplicações ou servidores em questão. Portanto ao usar um de seus comandos, você está de acordo com todas as informações presente nesse termo e aceitando as devidas punições que ocorrerá em caso de descumprimento das mesmas.
 
 > Por favor, note que nós podemos mudar nosso termos, a qualquer momento, e nos termos do `!StarAlien`, é sua a responsabilidade manter-se atualizado e aderir às políticas aqui postadas.
 
@@ -12,9 +12,9 @@ Todos os usuários da plataforma do `Discord` tem total liberdade de usar qualqu
 
 **1.1** Qualquer ato de difamação, xingamentos e outros afins que possam prejudicar a imagem de `!StarAlien` são expressamente proibidos, lembre-se que `!StarAlien` é um BOT e não uma máquina com inteligência artificial. Nenhum usuário tem obrigação de usar ou adicionar o `!StarAlien` em seus servidores, portanto utiliza-lo de forma desrespeitosa fará com que você seja banido\(a\) de usar todas as suas funções.
 
-**1.2** Alguns comandos são de uso exclusivo de desenvolvedores e Staffers do servidor de Suporte do `!StarAlien`, a tentativa forçada de tais comandos fará com que você seja banido\(a\) de usar todas as suas funções. Caso note bugs ao executar comandos do `!StarAlien`, reporte para a equipe de desenvolvedores e não fique abusando a fim de receber vantagens acima de outros usuários de forma desonesta.
+**1.2** Alguns comandos são de uso exclusivo de desenvolvedores e Staffers do servidor de Suporte do `!StarAlien`, a tentativa forçada de tais comandos fará com que você seja banido\(a\) de usar todas as suas funções. Caso note bugs ao executar comandos do `!StarAlien`, reporte para a equipe de desenvolvedores e não fique abusando para receber vantagens acima de outros usuários de forma desonesta.
 
-**1.3** O servidor de suporte do `!StarAlien` foi criado com o intuito de usar dúvidas sobre suas funções, reportar bugs, dar sugestões e acompanhar suas atualizações e novidades. As regras do servidor também devem ser acatadas para evitar punições dentro do servidor e também punições de usar o `!StarAlien`.
+**1.3** O servidor de suporte do `!StarAlien` foi criado com o intuito de sanar dúvidas sobre suas funções, reportar bugs, dar sugestões e acompanhar suas atualizações e novidades. As regras do servidor também devem ser acatadas para evitar punições dentro do servidor e também punições de usar o `!StarAlien`.
 
 **1.4** Ofender os desenvolvedores, membros e Stafters do servidor de suporte do `!StarAlien` fará com que você seja banido\(a\) do servidor de suporte e também de usar todas as suas funções, portanto, respeite-os.
 
@@ -32,11 +32,11 @@ Todos os usuários da plataforma do `Discord` tem total liberdade de usar qualqu
 
 **2.1** `!StarAlien` possui comandos que estão disponíveis apenas para doadores, a utilização forçada de ambos fará com que você seja banido\(a\) de usar todas as suas funções de forma permanentemente, não abuse.
 
-**2.2** Não temos como obrigação entregar recursos em troca de doações, todas as doações aqui são solidárias e contribuem para que possamos continuar o projeto, motivação. Oferecemos benéficos extras como cortesia para quem apoiar o projeto. Você faz uma doação para o projeto pelos recursos que ele já tem implementado, a adição de novas atualização ao projeto é de responsabilidade do desenvolvedor do projeto. Ou seja você doa para que o projeto oferece é não para melhorias futuras que ele vai ter. Trabalhamos com doações e tudo que é anunciado é entregue, não há reembolso em doações.
+**2.2** Não temos como obrigação entregar recursos em troca de doações, todas as doações aqui são solidárias e contribuem para que possamos continuar o projeto, motivação. Oferecemos benéficos extras como cortesia para quem apoiar o projeto. Você faz uma doação para o projeto pelos recursos que ele já tem implementado, a adição de novas atualização ao projeto é de responsabilidade do desenvolvedor ou seja você doa para que o projeto oferece é não para melhorias futuras que ele vai ter. Trabalhamos com doações e tudo que é anunciado é entregue, não há reembolso em doações.
 
 **2.3** Alguns benefícios são por tempo limitado. Após o término dos benefícios todos os recursos premium no servidor/bot, serão removidos.
 
-**2.4** Só serão concedidos os benefícios dos recursos Premium do `!StarAlien`, caso utilize os métodos de doações informados pelo responsável do projeto, Caso utilize outros métodos de doações não descritos nos comandos e servidor de suporte do `!StarAlien`, os mesmos não serão creditados e não nós responsabilizamos por tais doações. Os benefícios não são ativados de modo instantâneo, é de forma manual e não há tempo definido sobre entregas dos benefícios sobre doações.
+**2.4** Só serão concedidos os benefícios dos recursos Premium do `!StarAlien`, caso utilize os métodos de doações informados pelo responsável do projeto, caso utilize outros métodos de doações não descritos nos comandos ou servidor de suporte do `!StarAlien`, os mesmos não será creditados e não responsabilizamos por tais doações. Os benefícios não são ativados de modo instantâneo, é de forma manual e não há tempo definido sobre entregas dos benefícios sobre doações.
 
 ## 3.0 Banco de Dados e armazenamentos
 
@@ -63,7 +63,7 @@ Todos os usuários da plataforma do `Discord` tem total liberdade de usar qualqu
 
 ## 5.0 Permissões
 
-**5.1** Dê ao `!StarAlien` em seu servidor a permissão `ADMINISTRADOR`, para que `!StarAlien` funcione corretamente e não dê problemas caso ele tente executar algum comando e não ter permissão para isso.
+**5.1** Dê ao `!StarAlien` em seu servidor a permissão `ADMINISTRADOR`, para que `!StarAlien` funcione corretamente e não dê problemas caso o mesmo tente executar algum comando e não ter permissão para isso.
 
 **5.2** Não nós responsabilizamos caso o `!StarAlien` não consiga executar tais funções por falta de permissão. Portanto certifique-se que as devidas permissões estejam corretas conforme a cláusula `5.1`.
 
@@ -81,9 +81,9 @@ Todos os usuários da plataforma do `Discord` tem total liberdade de usar qualqu
 
 **7.3** O desbanimento poderá ocorrer também de forma automática conforme a ação dos desenvolvedores do `!StarAlien`.
 
-**7.4** A forma dificultada de desbanimento, é pagar uma multa/taxa de R$ 50,00 BRL, com os meios de pagamentos fornecidos no servidor de suporte do `!StarAlien` ou pagar com gift de nitro de valor $9,99 USD. 
+**7.4** A forma dificultada de desbanimento, é pagar uma multa/taxa de R$ 50,00 BRL, com os meios de pagamentos fornecidos no servidor de suporte do `!StarAlien` ou pagar com gift de nitro de valor $9,99 USD.
 
-**7.5** Ao ser desbanido(a) terá que reconquistar tudo novamente, a equipe de desenvolvimento afirma que salva os backups do banco de dados do bot, o usuário banido pode ter os dados restabelecidos porém o pagamento para reestabelecer os dados é a parte. 
+**7.5** Ao ser desbanido\(a\) terá que reconquistar tudo novamente, a equipe de desenvolvimento afirma que salva os backups do banco de dados do bot, o usuário banido pode ter os dados restabelecidos porém o pagamento para reestabelecer os dados é a parte.
 
 > Este documento é uma adaptação dos Termos de Serviço do Google App Engine e dos [Termos e condições de uso do Ovni\#7487](https://docs.ovnibot.com.br/terms). O trabalho original foi modificado. Não possui vínculo e não patrocina ou endossa o !StarAlien ou o seu uso da obra.
 
