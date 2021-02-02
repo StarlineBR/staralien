@@ -85,7 +85,7 @@ Todos os usuários da plataforma do `Discord` tem total liberdade de usar qualqu
 
 > Este documento é uma adaptação dos Termos de Serviço do Google App Engine e dos [Termos e condições de uso do Ovni\#7487](https://docs.ovnibot.com.br/terms). O trabalho original foi modificado. Não possui vínculo e não patrocina ou endossa o !StarAlien ou o seu uso da obra.
 
-----------------------------------------------
+## Informações
 ℹ [Mais informações](https://github.com/StarlineBR/staralien/wiki) - [Documentação](https://docs.staralienpremium.com)
 
 ℹ `!StarAlien - BETA` é um bot **free** que tem vários sistema de moderação, administração dentre outros, a maioria dos sistemas são estático não tendo a possibilidade de fazer alterações personalizadas, são sistemas padronizados. A proposta da aplicação é ter vários comandos úteis porém de forma limitada, pois a feature do bot é **BETA** ou seja podem ter funções premium do bot `!StarAlien - PREMIUM` implementada no bot **BETA** sem ter que pagar nada por isso, porém com ações limitadas que já vem predefinidas no sistema do mesmo, o propósito é ajudar usuários que não tem condições de pagar para poder usar o `!StarAlien - PREMIUM` mas sempre damos oportunidades de alguém ter a chance de usar o bot **PREMIUM** de forma free. A versão **BETA** é mais instável que a versão **PREMIUM**, podendo ter vários recursos modificados ou removidos durante o desenvolvimento, se vocês querem algo mais automatizado, personalizável e menos instável que a versão **BETA** vocês podem realizar doações para adquirir a versão **PREMIUM**.
