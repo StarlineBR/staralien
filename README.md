@@ -55,11 +55,11 @@ Todos os usuários da plataforma do `Discord` tem total liberdade de usar qualqu
 
 **4.1** Poderão ocorrer determinadas indisponibilidade no `!StarAlien` fazendo o mesmo não funcionar corretamente e/ou ficar offline em seu servidor. A equipe de desenvolvedor não se responsabiliza em caso da não contabilização de dados ou indisponibilidade do uso de seus comandos.
 
-**4.2** Anúncios, avisos e demais afins poderão ser divulgados no servidor de suporte do `!StarAlien` conforme descrito na cláusula `4.2`. É de obrigação de cada usuário ficar ciente das devidas informações.
+**4.2** Anúncios, avisos e demais afins poderão ser divulgados no servidor de suporte do `!StarAlien` conforme descrito na cláusula `4.2`. É obrigatório cada usuário ficar ciente das devidas informações.
 
 **4.3** Caso note que algo não esteja funcionando corretamente. reporte para a equipe de desenvolvedores para que seja possível a solução de seu problema.
 
-**4.4** Em casos de manutenção pode ocorrer vários imprevistos/erros, não responsabilizamos por esses tais erros, conforme descrito na cláusula `4.2`. É de obrigação de cada usuário ficar ciente das devidas informações.
+**4.4** Em casos de manutenção pode ocorrer vários imprevistos/erros, não responsabilizamos por esses tais erros, conforme descrito na cláusula `4.2`. É obrigatório cada usuário ficar ciente das devidas informações.
 
 ## 5.0 Permissões
 
@@ -75,7 +75,7 @@ Todos os usuários da plataforma do `Discord` tem total liberdade de usar qualqu
 
 ## 7.0 Desbanimento
 
-**7.1** Você pode recorrer aos pedidos de desbanimento entrando em contato com a equipe de desenvolvedores do `!StarAlien`. através do servidor de suporte ou em seus privados.
+**7.1** Você pode recorrer aos pedidos de desbanimento entrando em contato com a equipe de desenvolvedores do `!StarAlien`, através do servidor de suporte ou em seus privados.
 
 **7.2** Alguns pedidos de desbanimentos poderão ser aceitos com um pedido de desculpas, porém dependendo da gravidade da infração, você poderá ter seu pedido de desbanimento dificultado ou negado.
 
@@ -86,6 +86,7 @@ Todos os usuários da plataforma do `Discord` tem total liberdade de usar qualqu
 > Este documento é uma adaptação dos Termos de Serviço do Google App Engine e dos [Termos e condições de uso do Ovni\#7487](https://docs.ovnibot.com.br/terms). O trabalho original foi modificado. Não possui vínculo e não patrocina ou endossa o !StarAlien ou o seu uso da obra.
 
 ## Informações
+
 ℹ [Mais informações](https://github.com/StarlineBR/staralien/wiki) - [Documentação](https://docs.staralienpremium.com)
 
 ℹ `!StarAlien - BETA` é um bot **free** que tem vários sistema de moderação, administração dentre outros, a maioria dos sistemas são estático não tendo a possibilidade de fazer alterações personalizadas, são sistemas padronizados. A proposta da aplicação é ter vários comandos úteis porém de forma limitada, pois a feature do bot é **BETA** ou seja podem ter funções premium do bot `!StarAlien - PREMIUM` implementada no bot **BETA** sem ter que pagar nada por isso, porém com ações limitadas que já vem predefinidas no sistema do mesmo, o propósito é ajudar usuários que não tem condições de pagar para poder usar o `!StarAlien - PREMIUM` mas sempre damos oportunidades de alguém ter a chance de usar o bot **PREMIUM** de forma free. A versão **BETA** é mais instável que a versão **PREMIUM**, podendo ter vários recursos modificados ou removidos durante o desenvolvimento, se vocês querem algo mais automatizado, personalizável e menos instável que a versão **BETA** vocês podem realizar doações para adquirir a versão **PREMIUM**.
