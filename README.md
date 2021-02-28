@@ -2,7 +2,7 @@
 
 ## Termo de consentimento e Condições de uso do !StarAlien
 
-**Última atualização em:** 02/02/2021
+**Última atualização em:** 28/02/2021
 
 Todos os usuários da plataforma do `Discord` tem total liberdade de usar qualquer uma das funções presentes no `!StarAlien`, porém vale ressaltar que qualquer abuso ou descumprimento de alguma das cláusula desse termo limita o uso de qualquer comando do `!StarAlien` podendo ser banido\(a\) de usar qualquer uma de suas funções, isso também inclui novas funções, algumas cláusulas desse termo também pode aplicar em outras aplicações ou servidores em questão. Portanto ao usar um de seus comandos, você está de acordo com todas as informações presente nesse termo e aceitando as devidas punições que ocorrerá em caso de descumprimento das mesmas.
 
@@ -27,6 +27,8 @@ Todos os usuários da plataforma do `Discord` tem total liberdade de usar qualqu
 **1.8** Abusar de alguns comandos, fará com que você tenha limitações no uso das funções do `!StarAlien`, portanto evite o máximo para não utilizá-lo de forma irregular para evitar também que você seja banido\(a\) de usar todas as suas funções.
 
 **1.9** Ao usar o `!StarAlien` você concorda que ele é um bot seguro, não viola os Termos de Serviço do Discord e que não vai prejudicar seu servidor, portanto qualquer forma de desconfiança em relação ao bot espalhando asneiras, boatos ou algo do gênero, a equipe do `!StarAlien` podem punir da forma que quiser os usuários em questão.
+
+**1.10** Ao usar o `!StarAlien` ou qualquer comando do mesmo você automaticamente estará concordado com o termo de consentimento. 
 
 ## 2.0 Recursos Premium
 
