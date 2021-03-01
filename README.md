@@ -1,6 +1,6 @@
 # TCLE e politíca de uso
 
-## Termos de Consentimento Livre e Esclarecido \(TCLE\) e política de uso do `!StarAlien`
+## Termos de Consentimento Livre e Esclarecido \(TCLE\) e política de uso.
 
 * **Última atualização:** 28/02/2021
 * **Efetividade:** 10/04/2020
