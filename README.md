@@ -1,6 +1,6 @@
-# Termo de consentimento
+# TCLE e politíca de uso
 
-## Termo de consentimento e Condições de uso do !StarAlien
+## Termos de Consentimento Livre e Esclarecido \(TCLE\) e politíca de uso do `!StarAlien`
 
 **Última atualização em:** 28/02/2021
 
@@ -28,7 +28,7 @@ Todos os usuários da plataforma do `Discord` tem total liberdade de usar qualqu
 
 **1.9** Ao usar o `!StarAlien` você concorda que ele é um bot seguro, não viola os Termos de Serviço do Discord e que não vai prejudicar seu servidor, portanto qualquer forma de desconfiança em relação ao bot espalhando asneiras, boatos ou algo do gênero, a equipe do `!StarAlien` podem punir da forma que quiser os usuários em questão.
 
-**1.10** Ao usar o `!StarAlien` ou qualquer comando do mesmo você automaticamente estará concordado com o termo de consentimento. 
+**1.10** Ao usar o `!StarAlien` ou qualquer comando do mesmo você automaticamente estará concordado com o termo de consentimento.
 
 ## 2.0 Recursos Premium
 
@@ -92,3 +92,4 @@ Todos os usuários da plataforma do `Discord` tem total liberdade de usar qualqu
 ℹ [Mais informações](https://github.com/StarlineBR/staralien/wiki) - [Documentação](https://docs.staralienpremium.com)
 
 ℹ `!StarAlien - BETA` é um bot **free** que tem vários sistema de moderação, administração dentre outros, a maioria dos sistemas são estático não tendo a possibilidade de fazer alterações personalizadas, são sistemas padronizados. A proposta da aplicação é ter vários comandos úteis porém de forma limitada, pois a feature do bot é **BETA** ou seja podem ter funções premium do bot `!StarAlien - PREMIUM` implementada no bot **BETA** sem ter que pagar nada por isso, porém com ações limitadas que já vem predefinidas no sistema do mesmo, o propósito é ajudar usuários que não tem condições de pagar para poder usar o `!StarAlien - PREMIUM` mas sempre damos oportunidades de alguém ter a chance de usar o bot **PREMIUM** de forma free. A versão **BETA** é mais instável que a versão **PREMIUM**, podendo ter vários recursos modificados ou removidos durante o desenvolvimento, se vocês querem algo mais automatizado, personalizável e menos instável que a versão **BETA** vocês podem realizar doações para adquirir a versão **PREMIUM**.
+
