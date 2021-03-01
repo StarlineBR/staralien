@@ -1,8 +1,9 @@
 # TCLE e politíca de uso
 
-## Termos de Consentimento Livre e Esclarecido \(TCLE\) e politíca de uso do `!StarAlien`
+## Termos de Consentimento Livre e Esclarecido \(TCLE\) e política de uso do `!StarAlien`
 
-**Última atualização em:** 28/02/2021
+* **Última atualização:** 28/02/2021
+* **Efetividade:** 10/04/2020
 
 Todos os usuários da plataforma do `Discord` tem total liberdade de usar qualquer uma das funções presentes no `!StarAlien`, porém vale ressaltar que qualquer abuso ou descumprimento de alguma das cláusula desse termo limita o uso de qualquer comando do `!StarAlien` podendo ser banido\(a\) de usar qualquer uma de suas funções, isso também inclui novas funções, algumas cláusulas desse termo também pode aplicar em outras aplicações ou servidores em questão. Portanto ao usar um de seus comandos, você está de acordo com todas as informações presente nesse termo e aceitando as devidas punições que ocorrerá em caso de descumprimento das mesmas.
 
