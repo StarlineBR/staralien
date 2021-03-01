@@ -9,7 +9,7 @@ Todos os usuários da plataforma do `Discord` tem total liberdade de usar qualqu
 
 > Por favor, note que nós podemos mudar nosso termos, a qualquer momento, e nos termos do `!StarAlien`, é sua a responsabilidade manter-se atualizado e aderir às políticas aqui postadas.
 
-## 1.0 Uso do !StarAlien
+## 1.0 !StarAlien
 
 **1.1** Qualquer ato de difamação, xingamentos e outros afins que possam prejudicar a imagem de `!StarAlien` são expressamente proibidos, lembre-se que `!StarAlien` é um BOT e não uma máquina com inteligência artificial. Nenhum usuário tem obrigação de usar ou adicionar o `!StarAlien` em seus servidores, portanto utiliza-lo de forma desrespeitosa fará com que você seja banido\(a\) de usar todas as suas funções.
 
