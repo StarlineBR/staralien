@@ -1,25 +1,29 @@
-# TCLE e política de uso 
+---
+description: É importante ler o TCLE e política de uso antes de usar o !StarAlien
+---
+
+# TCLE e política de uso
 
 ## Termos de Consentimento Livre e Esclarecido \(TCLE\) e política de uso.
 
 * **Última atualização:** 02/03/2021
 * **Efetividade:** 10/04/2020
 
-Todos os usuários da plataforma do `Discord` tem total liberdade de usar qualquer uma das funções presentes no `!StarAlien`, porém vale ressaltar que qualquer abuso ou descumprimento de alguma das cláusula desse termo limita o uso de qualquer comando do `!StarAlien` podendo ser banido\(a\) de usar qualquer uma de suas funções, isso também inclui novas funções, algumas cláusulas desse termo também pode aplicar em outras aplicações ou servidores em questão. Portanto ao usar um de seus comandos, você está de acordo com todas as informações presente nesse termo e aceitando as devidas punições que ocorrerá em caso de descumprimento das mesmas.
+Todos os usuários da plataforma do `Discord` tem total liberdade de usar qualquer uma das funções presentes em `!StarAlien`, porém vale ressaltar que qualquer abuso ou descumprimento de alguma das cláusula desse `TCLE e política de uso` limita o uso de qualquer comando do mesmo podendo ser banido\(a\) de usar qualquer uma de suas funções, isso também inclui novas funções, algumas cláusulas desse termo também pode aplicar em outras aplicações ou servidores em questão. Portanto ao usar um de seus comandos, você está de acordo com todas as informações presente nesse termo e aceitando as devidas punições que ocorrerá em caso de descumprimento das mesmas.
 
-> Por favor, note que nós podemos mudar nosso termos, a qualquer momento, e nos termos do `!StarAlien`, é sua a responsabilidade manter-se atualizado e aderir às políticas aqui postadas.
+> Por favor, note que nós podemos mudar nosso TCLE e política de uso, a qualquer momento, e no mesmo, é sua a responsabilidade manter-se atualizado e aderir às políticas aqui postadas.
 
 ## 1.0 !StarAlien
 
-**1.1** Qualquer ato de difamação, xingamentos e outros afins que possam prejudicar a imagem de `!StarAlien` são expressamente proibidos, lembre-se que `!StarAlien` é um BOT e não uma máquina com inteligência artificial. Nenhum usuário tem obrigação de usar ou adicionar o `!StarAlien` em seus servidores, portanto utiliza-lo de forma desrespeitosa fará com que você seja banido\(a\) de usar todas as suas funções.
+**1.1** Qualquer ato de difamação, xingamentos e outros afins que possam prejudicar a imagem de `!StarAlien` são expressamente proibidos, lembre-se que `!StarAlien` é um BOT e não uma máquina com inteligência artificial. Nenhum usuário tem obrigação de usar ou adicionar `!StarAlien` em seus servidores, portanto utiliza-lo de forma desrespeitosa fará com que você seja banido\(a\) de usar todas as suas funções.
 
-**1.2** Alguns comandos são de uso exclusivo de desenvolvedores e Staffers do servidor de Suporte do `!StarAlien`, a tentativa forçada de tais comandos fará com que você seja banido\(a\) de usar todas as suas funções. Caso note bugs ao executar comandos do `!StarAlien`, reporte para a equipe de desenvolvedores e não fique abusando para receber vantagens acima de outros usuários de forma desonesta ou usar para ficar derrubando o bot.
+**1.2** Alguns comandos são de uso exclusivo de desenvolvedores e a equipe do servidor de suporte do `!StarAlien`, a tentativa forçada de tais comandos fará com que você seja banido\(a\) de usar todas as suas funções. Caso note bugs ao executar comandos em `!StarAlien`, reporte para a equipe de desenvolvedores e não fique abusando para receber vantagens acima de outros usuários de forma desonesta ou usar para ficar derrubando o bot.
 
-**1.3** O servidor de suporte do `!StarAlien` foi criado com o intuito de sanar dúvidas sobre suas funções, reportar bugs, dar sugestões e acompanhar suas atualizações e novidades. As regras do servidor também devem ser acatadas para evitar punições dentro do servidor e também punições de usar o `!StarAlien`.
+**1.3** O servidor de suporte das aplicações `!StarAlien` foi criado com o intuito de sanar dúvidas sobre suas funções, reportar bugs, dar sugestões e acompanhar suas atualizações e novidades. As regras do servidor também devem ser acatadas para evitar punições dentro do servidor e também punições de usar o `!StarAlien`.
 
-**1.4** Ofender os desenvolvedores, membros e Stafters do servidor de suporte do `!StarAlien` fará com que você seja banido\(a\) do servidor de suporte e também de usar todas as suas funções, portanto, respeite-os.
+**1.4** Ofender os desenvolvedores, membros e a equipe do servidor de suporte do `!StarAlien` fará com que você seja banido\(a\) do servidor de suporte e também de usar todas as suas funções, portanto, respeite-os.
 
-**1.5** Ofender os desenvolvedores, membros e Stafters do `!StarAlien`, aplicar punições sem nexo em outros servidores impossibilitando que os Staff e desenvolvedores do `!StarAlien` usem ele ou algo do gênero. A equipe de desenvolvedores podem punir da forma que quiser tanto os Donos dos servidores e aos usuários que fizeram a ação, com isso os servidores / usuários em questão vão ser adicionados a blacklist do bot impossibilitando que o `!StarAlien` entre nos servidores ou o uso do mesmo.
+**1.5** Ofender os desenvolvedores, membros e a equipe do `!StarAlien`, aplicar punições sem nexo em outros servidores impossibilitando que a equipe e desenvolvedores do `!StarAlien` usem ele ou algo do gênero. A equipe e desenvolvedores podem punir da forma que quiser tanto os Donos dos servidores e aos usuários que fizeram a ação, com isso os servidores / usuários em questão vão ser adicionados a blacklist do bot impossibilitando que o `!StarAlien` entre nos servidores ou o uso do mesmo.
 
 **1.6** Qualquer ato de violação dos termos do `Discord` é proibido dentro da plataforma. Você terá sua conta banida de usar todas as funções do `!StarAlien` e será reportado\(a\) para a equipe do Discord podendo até ter sua conta desativada permanentemente. Fique sempre atento\(a\) aos Termos de Serviço: [https://discord.com/terms](https://discord.com/terms) e Diretrizes da Comunidade: [https://discord.com/guidelines](https://discord.com/guidelines)
 
@@ -31,11 +35,13 @@ Todos os usuários da plataforma do `Discord` tem total liberdade de usar qualqu
 
 **1.10** Ao usar o `!StarAlien` ou qualquer comando do mesmo estará concordando automaticamente com `TCLE e política de uso`.
 
-**1.11** A aceitação do `TCLE e política de uso` é de forma digital. 
+**1.11** A aceitação do `TCLE e política de uso` é de forma digital.
 
 **1.12** Você não pode usar `!StarAlien` caso discorde do `TCLE e política de uso`, o uso forçado do mesmo haverá punições.
 
-**1.13** Não terá direito de reclamação caso viole algumas das cláusulas do `TCLE e política de uso`.
+**1.13** Não terá direito de reclamação caso viole algumas das cláusulas do `TCLE e política de uso`.  
+  
+**1.14** O termo `!StarAlien` é referente a qualquer aplicação ou  desenvolvimento de projeto cujo o qual inicia com o determinado nome.
 
 ## 2.0 Recursos Premium
 
@@ -45,11 +51,11 @@ Todos os usuários da plataforma do `Discord` tem total liberdade de usar qualqu
 
 **2.3** Alguns benefícios são por tempo limitado. Após o término dos benefícios todos os recursos premium no servidor/bot, serão removidos.
 
-**2.4** Só serão concedidos os benefícios dos recursos premium do `!StarAlien - PREMIUM`, caso utilize os métodos de doações informados pelo responsável do projeto, caso utilize outros métodos de doações não descritos nos comandos ou servidor de suporte do `!StarAlien`, os mesmos não será creditados e não responsabilizamos por tais doações. Os benefícios não são ativados de modo instantâneo, é de forma manual e não há tempo definido sobre entregas dos benefícios sobre doações.
+**2.4** Só serão concedidos os benefícios dos recursos premium do `!StarAlien - PREMIUM`, caso utilize os métodos de doações informados pelo responsável do projeto, caso utilize outros métodos de doações não descritos nos comandos ou servidor de suporte do `!StarAlien`, os mesmos não será creditados e não responsabilizamos por tais doações. Os benefícios não são ativados de modo instantâneo, é de forma manual e não há tempo definido sobre entregas dos benefícios em relação a doações.
 
 **2.5** Você concorda que não há reembolso em doações.
 
-**2.6** Se o doador realizar o ato de calúnia, difamação, injúria e ameaças o mesmo será acionado judicialmente pelos [Art. 138](https://www.jusbrasil.com.br/topicos/10622974/artigo-138-do-decreto-lei-n-2848-de-07-de-dezembro-de-1940), [Art. 139](https://www.jusbrasil.com.br/topicos/10622728/artigo-139-do-decreto-lei-n-2848-de-07-de-dezembro-de-1940), [Art. 140](https://www.jusbrasil.com.br/topicos/10622653/artigo-140-do-decreto-lei-n-2848-de-07-de-dezembro-de-1940) e [Art. 147](https://www.jusbrasil.com.br/topicos/10621647/artigo-147-do-decreto-lei-n-2848-de-07-de-dezembro-de-1940) do Código Penal. 
+**2.6** Se o\(a\) doador\(a\) realizar o ato de calúnia, difamação, injúria e ameaças o mesmo será acionado judicialmente pelos [Art. 138](https://www.jusbrasil.com.br/topicos/10622974/artigo-138-do-decreto-lei-n-2848-de-07-de-dezembro-de-1940), [Art. 139](https://www.jusbrasil.com.br/topicos/10622728/artigo-139-do-decreto-lei-n-2848-de-07-de-dezembro-de-1940), [Art. 140](https://www.jusbrasil.com.br/topicos/10622653/artigo-140-do-decreto-lei-n-2848-de-07-de-dezembro-de-1940) e [Art. 147](https://www.jusbrasil.com.br/topicos/10621647/artigo-147-do-decreto-lei-n-2848-de-07-de-dezembro-de-1940) do Código Penal ou o artigo referente ao País do\(a\) doador\(a\).
 
 ## 3.0 Banco de Dados e armazenamentos
 
@@ -62,11 +68,9 @@ Todos os usuários da plataforma do `Discord` tem total liberdade de usar qualqu
 > * 3.2.3 Perda de dados caso ocorra atualizações profundas no `!StarAlien`.
 > * 3.2.4 Perda de dados e informações caso ocorram atualização no Node.js.
 
-**3.3** Você é responsável em salvar em um local seguro todas/parciais as informações dos usuários/membros do seu servidor, em caso de problemas de armazenamento das informações e/ou a perda deles conforme descrito na cláusula `3.1`.
-
 ## 4.0 Indisponibilidade
 
-**4.1** Poderão ocorrer determinadas indisponibilidade no `!StarAlien` fazendo o mesmo não funcionar corretamente e/ou ficar offline em seu servidor. A equipe de desenvolvedor não se responsabiliza em caso da não contabilização de dados ou indisponibilidade do uso de seus comandos.
+**4.1** Poderão ocorrer determinadas indisponibilidade no `!StarAlien` fazendo o mesmo não funcionar corretamente e/ou ficar offline em seu servidor. A equipe de desenvolvedores não se responsabiliza em caso da não contabilização de dados ou indisponibilidade do uso de seus comandos.
 
 **4.2** Anúncios, avisos e demais afins poderão ser divulgados no servidor de suporte do `!StarAlien` conforme descrito na cláusula `4.2`. É obrigatório cada usuário ficar ciente das devidas informações.
 
@@ -94,11 +98,11 @@ Todos os usuários da plataforma do `Discord` tem total liberdade de usar qualqu
 
 **7.3** O desbanimento poderá ocorrer também de forma automática conforme a ação dos desenvolvedores do `!StarAlien`.
 
-**7.4** Ao ser desbanido\(a\) terá que reconquistar tudo novamente, a equipe de desenvolvimento afirma que salva os backups do banco de dados do bot, o usuário banido pode ter os dados restabelecidos porém o pagamento para reestabelecer os dados é a parte.
+**7.4** Ao ser desbanido\(a\) terá que reconquistar tudo novamente, a equipe de desenvolvimento afirma que salva os backups do banco de dados do bot, o usuário banido pode ter os dados restabelecidos porém o pagamento para reestabelecer os dados é a parte, e o pagamento para reestabelecer os dados vai contar como doação.
 
 > Este documento é uma adaptação dos Termos de Serviço do Google App Engine e dos [Termos e condições de uso do Ovni\#7487](https://docs.ovnibot.com.br/terms). O trabalho original foi modificado. Não possui vínculo e não patrocina ou endossa o !StarAlien ou o seu uso da obra.
 
-## Informações
+## Informações adicionais
 
 ℹ [Mais informações](https://github.com/StarlineBR/staralien/wiki) - [Documentação](https://docs.staralienpremium.com)
 
