@@ -2,7 +2,7 @@
 
 ## Termos de Consentimento Livre e Esclarecido \(TCLE\) e política de uso.
 
-* **Última atualização:** 28/02/2021
+* **Última atualização:** 01/03/2021
 * **Efetividade:** 10/04/2020
 
 Todos os usuários da plataforma do `Discord` tem total liberdade de usar qualquer uma das funções presentes no `!StarAlien`, porém vale ressaltar que qualquer abuso ou descumprimento de alguma das cláusula desse termo limita o uso de qualquer comando do `!StarAlien` podendo ser banido\(a\) de usar qualquer uma de suas funções, isso também inclui novas funções, algumas cláusulas desse termo também pode aplicar em outras aplicações ou servidores em questão. Portanto ao usar um de seus comandos, você está de acordo com todas as informações presente nesse termo e aceitando as devidas punições que ocorrerá em caso de descumprimento das mesmas.
@@ -29,17 +29,21 @@ Todos os usuários da plataforma do `Discord` tem total liberdade de usar qualqu
 
 **1.9** Ao usar o `!StarAlien` você concorda que ele é um bot seguro, não viola os Termos de Serviço do Discord e que não vai prejudicar seu servidor, portanto qualquer forma de desconfiança em relação ao bot espalhando asneiras, boatos ou algo do gênero, a equipe do `!StarAlien` podem punir da forma que quiser os usuários em questão.
 
-**1.10** Ao usar o `!StarAlien` ou qualquer comando do mesmo você automaticamente estará concordado com o termo de consentimento.
+**1.10** Ao usar o `!StarAlien` ou qualquer comando do mesmo você automaticamente estará concordado com `TCLE e política de uso`.
 
 ## 2.0 Recursos Premium
 
 **2.1** Requisitos do `!StarAlien - PREMIUM` se encontra listados no [servidor de suporte](https://discord.gg/pAMsAaG), tendo comandos disponíveis apenas para doadores ou parceiros, a utilização forçada de ambos fará com que você seja banido\(a\) de usar todas as suas funções de forma permanentemente, não abuse.
 
-**2.2** Não temos como obrigação entregar recursos em troca de doações, todas as doações são solidárias e contribuem para que possamos continuar o projeto, motivação. Oferecemos benéficos extras como cortesia para quem apoiar o projeto. Você faz uma doação para o projeto pelos recursos que ele já tem implementado, a adição de novas atualização ao projeto é de responsabilidade do desenvolvedor ou seja você doa para que o projeto oferece e não para melhorias futuras que ele vai ter. Trabalhamos com doações e tudo que é anunciado é entregue, não há reembolso em doações.
+**2.2** Não temos como obrigação entregar recursos em troca de doações, todas as doações são solidárias e contribuem para que possamos continuar o projeto, motivação. Oferecemos benéficos extras como cortesia para quem apoiar o projeto. Você faz uma doação para o projeto pelos recursos que ele já tem implementado, a adição de novas atualização ao projeto é de responsabilidade do desenvolvedor ou seja você doa para que o projeto oferece e não para melhorias futuras que ele vai ter. Trabalhamos com doações e tudo que é anunciado é entregue.
 
 **2.3** Alguns benefícios são por tempo limitado. Após o término dos benefícios todos os recursos premium no servidor/bot, serão removidos.
 
 **2.4** Só serão concedidos os benefícios dos recursos premium do `!StarAlien - PREMIUM`, caso utilize os métodos de doações informados pelo responsável do projeto, caso utilize outros métodos de doações não descritos nos comandos ou servidor de suporte do `!StarAlien`, os mesmos não será creditados e não responsabilizamos por tais doações. Os benefícios não são ativados de modo instantâneo, é de forma manual e não há tempo definido sobre entregas dos benefícios sobre doações.
+
+**2.5** Você concorda que não há reembolso em doações.
+
+**2.6** Se o donatário ameaçar, caluniar, xingar ou algo do gênero o mesmo será acionado judicialmente pelo [Art. 557 do Código Civil](https://www.jusbrasil.com.br/topicos/10697866/artigo-557-da-lei-n-10406-de-10-de-janeiro-de-2002)
 
 ## 3.0 Banco de Dados e armazenamentos
 
