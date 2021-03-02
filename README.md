@@ -2,7 +2,7 @@
 
 ## Termos de Consentimento Livre e Esclarecido \(TCLE\) e política de uso.
 
-* **Última atualização:** 01/03/2021
+* **Última atualização:** 02/03/2021
 * **Efetividade:** 10/04/2020
 
 Todos os usuários da plataforma do `Discord` tem total liberdade de usar qualquer uma das funções presentes no `!StarAlien`, porém vale ressaltar que qualquer abuso ou descumprimento de alguma das cláusula desse termo limita o uso de qualquer comando do `!StarAlien` podendo ser banido\(a\) de usar qualquer uma de suas funções, isso também inclui novas funções, algumas cláusulas desse termo também pode aplicar em outras aplicações ou servidores em questão. Portanto ao usar um de seus comandos, você está de acordo com todas as informações presente nesse termo e aceitando as devidas punições que ocorrerá em caso de descumprimento das mesmas.
@@ -43,7 +43,7 @@ Todos os usuários da plataforma do `Discord` tem total liberdade de usar qualqu
 
 **2.5** Você concorda que não há reembolso em doações.
 
-**2.6** Se o donatário ameaçar, caluniar, xingar ou algo do gênero o mesmo será acionado judicialmente pelo [Art. 557 do Código Civil](https://www.jusbrasil.com.br/topicos/10697866/artigo-557-da-lei-n-10406-de-10-de-janeiro-de-2002)
+**2.6** Se o doador realizar o ato de calúnia, difamação, injúria e ameaças o mesmo será acionado judicialmente pelos [Art. 138](https://www.jusbrasil.com.br/topicos/10622974/artigo-138-do-decreto-lei-n-2848-de-07-de-dezembro-de-1940), [Art. 139](https://www.jusbrasil.com.br/topicos/10622728/artigo-139-do-decreto-lei-n-2848-de-07-de-dezembro-de-1940), [Art. 140](https://www.jusbrasil.com.br/topicos/10622653/artigo-140-do-decreto-lei-n-2848-de-07-de-dezembro-de-1940) e [Art. 147](https://www.jusbrasil.com.br/topicos/10621647/artigo-147-do-decreto-lei-n-2848-de-07-de-dezembro-de-1940) do Código Penal. 
 
 ## 3.0 Banco de Dados e armazenamentos
 
