@@ -1,4 +1,4 @@
-# TCLE e politíca de uso
+# TCLE e política de uso
 
 ## Termos de Consentimento Livre e Esclarecido \(TCLE\) e política de uso.
 
