@@ -29,11 +29,13 @@ Todos os usuários da plataforma do `Discord` tem total liberdade de usar qualqu
 
 **1.9** Ao usar o `!StarAlien` você concorda que ele é um bot seguro, não viola os Termos de Serviço do Discord e que não vai prejudicar seu servidor, portanto qualquer forma de desconfiança em relação ao bot espalhando asneiras, boatos ou algo do gênero, a equipe do `!StarAlien` podem punir da forma que quiser os usuários em questão.
 
-**1.10** Ao usar o `!StarAlien` ou qualquer comando do mesmo você automaticamente estará concordado com `TCLE e política de uso`.
+**1.10** Ao usar o `!StarAlien` ou qualquer comando do mesmo estará concordando automaticamente com `TCLE e política de uso`.
 
 **1.11** A aceitação do `TCLE e política de uso` é de forma digital. 
 
-**1.12** Você não poderá usar `!StarAlien` caso discorde do `TCLE e política de uso`, o uso forçado do mesmo haverá punições.
+**1.12** Você não pode usar `!StarAlien` caso discorde do `TCLE e política de uso`, o uso forçado do mesmo haverá punições.
+
+**1.13** Não terá direito de reclamação caso viole algumas das cláusulas do `TCLE e política de uso`.
 
 ## 2.0 Recursos Premium
 
