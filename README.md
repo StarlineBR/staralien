@@ -31,6 +31,10 @@ Todos os usuários da plataforma do `Discord` tem total liberdade de usar qualqu
 
 **1.10** Ao usar o `!StarAlien` ou qualquer comando do mesmo você automaticamente estará concordado com `TCLE e política de uso`.
 
+**1.11** A aceitação do `TCLE e politíca de uso` é de forma digital. 
+
+**1.12** Você não poderá usar `!StarAlien` caso discorde do `TCLE e politíca de uso`, o uso forçado do mesmo haverá punições.
+
 ## 2.0 Recursos Premium
 
 **2.1** Requisitos do `!StarAlien - PREMIUM` se encontra listados no [servidor de suporte](https://discord.gg/pAMsAaG), tendo comandos disponíveis apenas para doadores ou parceiros, a utilização forçada de ambos fará com que você seja banido\(a\) de usar todas as suas funções de forma permanentemente, não abuse.
